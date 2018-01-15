@@ -19,5 +19,5 @@ Prior to my masters at U, I worked as a Software Engineer for two years at J.P.M
 Professional Experience
 ------
 
-[Software Engineer](https://tejakommineni.github.io/) - I worked as a Software Engineer at J.P.Morgan Chase for two years developing a web application (June 2014 - July 2016)
+[Software Engineer](https://vathsalar.github.io/) - I worked as a Software Engineer at J.P.Morgan Chase for two years developing a web application (June 2015 - July 2017)
 
