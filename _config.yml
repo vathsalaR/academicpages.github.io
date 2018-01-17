@@ -82,7 +82,7 @@ author:
   bio              : "Masters Student in Information Systems at the University of Utah"
   location         : "Salt Lake City"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : 
   email            : 
   uri              : 
   bitbucket        :
@@ -97,13 +97,14 @@ author:
   instagram        : 
   lastfm           :
   linkedin         : "vathsala-ragireddy-0831b892"
-  orcid            : "http://orcid.org/testaccount"
+  orcid            : "
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : 
+  tableau          : "https://public.tableau.com/profile/vathsala.ragireddy#!/"
   vine             :
   weibo            :
   xing             :
